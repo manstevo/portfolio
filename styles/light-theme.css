@@ -1,0 +1,27 @@
+/* Light Theme Styles */
+body {
+  background: #fff;
+  color: #333;
+}
+
+.section-home {
+  background: #f8f9fa;
+}
+
+.section-projects {
+  background: #f8f9fa;
+}
+
+.section-contact {
+  background: #f8f9fa;
+}
+
+.card {
+  background: #fff;
+  color: #333;
+}
+
+.form-control {
+  background: #fff;
+  color: #333;
+}

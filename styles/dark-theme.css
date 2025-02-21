@@ -1,0 +1,47 @@
+/* Dark Theme Styles */
+body {
+  background: #121212;
+  color: #e0e0e0;
+}
+
+.section-home {
+  background: #1f1f1f;
+  color: #e0e0e0;
+}
+
+.section-projects {
+  background: #1f1f1f;
+  color: #e0e0e0;
+}
+
+.section-contact {
+  background: #1f1f1f;
+  color: #e0e0e0;
+}
+
+.card {
+  background: #2d2d2d;
+  color: #e0e0e0;
+  border: 1px solid #444;
+}
+
+.card .btn-primary {
+  background: #444;
+  border-color: #555;
+}
+
+.card .btn-primary:hover {
+  background: #555;
+}
+
+.form-control {
+  background: #2d2d2d;
+  color: #e0e0e0;
+  border-color: #444;
+}
+
+.form-control:focus {
+  background: #2d2d2d;
+  color: #e0e0e0;
+  border-color: #666;
+}

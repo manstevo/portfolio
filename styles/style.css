@@ -1,0 +1,20 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#home {
+    padding: 100px 0;
+}
+
+    #home img {
+        border: 5px solid #fff;
+    }
+
+#projects .card {
+    height: 100%;
+}
+
+#contact textarea {
+    resize: none;
+}
